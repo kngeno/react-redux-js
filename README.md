@@ -1,3 +1,4 @@
+
 Redux Form Validator Example
 =========================
 
@@ -15,3 +16,7 @@ $ npm start
 And open in browser: [http://localhost:3000](http://localhost:3000)# react-redux-js
 # react-redux-js
 # react-redux-js
+=======
+# react-redux-js
+A simpe email validation using react and redux
+
